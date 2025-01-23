@@ -88,5 +88,3 @@ Proyek ini adalah *self-project*, tetapi kontribusi, ide, atau saran dari komuni
 ## Kontak
 Jika Anda memiliki pertanyaan lebih lanjut tentang proyek ini, silakan hubungi saya:
 - **Email**: imambahyp@gmail.com
-- **GitHub**: [imambahy](https://github.com/imambahy)
-=======
